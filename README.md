@@ -1,6 +1,6 @@
 # 👋 I'm Aryan
 
-- 🚀 CS @ UIC • macOS everything • Terminal gremlin
+- 🚀 CS @ UIC • macOS everything
 - 🧠 Deep into Swift right now – making it my main for tooling and macOS dev
 - 🔧 Building: [ComfyNotch](https://github.com/AryanRogye/ComfyNotch) – a floating macOS panel that does what Apple didn’t
 - 💻 Worked in: Rust 🦀, Go, C/C++, React Native, Flutter, Arduino, Swift, Python, Lua, Godot
