@@ -15,14 +15,6 @@
 </p>
 ---
 
-### 🧰 Tech Stack
-
-**Languages:** `Swift`, `Rust`, `Go`, `C`, `C++`, `Python`, `Java`, `JavaScript`, `TypeScript`, `Lua`, `Dart`  
-**Frameworks:** `SwiftUI`, `AppKit`, `React Native`, `Flutter`, `Tauri`
-**Backend & Tools:** `Firebase`, `PostgreSQL`, `SQLite`, `libtorrent`  
-**Hardware:** `Arduino🤮`, `Raspberry Pi`
----
-
 ### 🛰 Contact
 
 - 🔗 GitHub: [@AryanRogye](https://github.com/AryanRogye)
