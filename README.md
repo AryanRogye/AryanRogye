@@ -7,6 +7,19 @@
   <br />
   <img src="https://github-readme-stats.vercel.app/api?username=AryanRogye&show_icons=true&theme=tokyonight&hide=contribs&hide_title=true&hide_rank=true" />
 </p>
+
+---
+
+### ⭐ Personal Favorites
+
+| Project | Preview | Tech | Repo |
+|---|---|---|---|
+| **[ComfyNotch](https://github.com/AryanRogye/ComfyNotch)**<br/>A polished macOS notch utility with widgets, animations, and customization. | <img src="https://github.com/user-attachments/assets/37c7e83f-4381-437f-a7e7-9993ce0c4363" width="56" /> | ![Swift](https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white)&nbsp; ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white)&nbsp; ![SwiftUI](https://img.shields.io/badge/SwiftUI-0A84FF?logo=swift&logoColor=white)&nbsp; ![AppKit](https://img.shields.io/badge/AppKit-1E1E1E) | [![Stars](https://img.shields.io/github/stars/AryanRogye/ComfyNotch?style=flat)](https://github.com/AryanRogye/ComfyNotch) |
+| **[ComfyMark](https://github.com/AryanRogye/ComfyMark)**<br/> A lightweight, screenshot & markup tool for macOS — fully GPU-rendered with Metal for buttery-smooth performance. | <img src="https://github.com/user-attachments/assets/aef35629-9c75-4c62-944c-cfa9506704c1" width="56" /> | ![Swift](https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white)&nbsp; ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white)&nbsp; ![SwiftUI](https://img.shields.io/badge/SwiftUI-0A84FF?logo=swift&logoColor=white)&nbsp; ![Metal](https://img.shields.io/badge/Metal-A020F0?logo=apple&logoColor=white) ![AppKit](https://img.shields.io/badge/AppKit-1E1E1E) | [![Stars](https://img.shields.io/github/stars/AryanRogye/ComfyMark?style=flat)](https://github.com/AryanRogye/ComfyMark) |
+---
+
+### 🌱 About
+- I name my projects **Comfy** because my Xbox gamertag since I was a kid was **ComfyDuck**
 ---
 
 ### 🛰 Contact
