@@ -16,7 +16,7 @@ Hi I like building cool things
 
 ### Current Interests
 - Experimenting with **local AI** (LLMs, on-device inference, tiny models)
-- Exploring **macOS internals** — I like digging through dyld caches to find callable private functions
+- Exploring **macOS internals**, I like digging through dyld caches to find callable private functions
   - Check out my deep-dive: [ComfyDock](https://github.com/AryanRogye/ComfyDock/blob/main/README.md)
 - Building tools from scratch to understand how things work at a low level
 
