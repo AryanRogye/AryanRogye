@@ -1,14 +1,24 @@
 # I'm Aryan
 
-- 🚀 CS @ UIC
+- CS @ UIC
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryanRogye&layout=compact&theme=tokyonight" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api?username=AryanRogye&show_icons=true&theme=tokyonight&hide=contribs&hide_title=true&hide_rank=true" />
-</p>
+</p> -->
 
 ---
+
+Hi I like building cool things
+- Currently I'm not focussing on anything specific
+- I like building whatever comes to my mind
+
+### Current Interests
+- Experimenting with **local AI** (LLMs, on-device inference, tiny models)
+- Exploring **macOS internals** — I like digging through dyld caches to find callable private functions
+  - Check out my deep-dive: [ComfyDock](https://github.com/AryanRogye/ComfyDock/blob/main/README.md)
+- Building tools from scratch to understand how things work at a low level
 
 ### ⭐ Personal Favorites
 
