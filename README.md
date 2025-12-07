@@ -20,6 +20,9 @@ Hi I like building cool things
   - Check out my deep-dive: [ComfyDock](https://github.com/AryanRogye/ComfyDock/blob/main/README.md)
 - Building tools from scratch to understand how things work at a low level
 
+### Currently Working on
+- Having fun building out an editor [ComfyEditor](https://github.com/AryanRogye/ComfyEditor)
+
 ### ⭐ Personal Favorites
 
 | Project | Preview | Tech | Repo |
