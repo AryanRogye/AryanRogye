@@ -14,6 +14,15 @@ Hi I like building cool things
 - Currently I'm not focussing on anything specific
 - I like building whatever comes to my mind
 
+### Favorite Programming Languages Ranked
+1. Swift — daily driver
+2. Go — still learning
+3. C — low-level comfort
+4. Java — first language
+5. Rust
+6. C++
+7. Python - Last Option
+
 ### Current Interests
 - Experimenting with **local AI** (LLMs, on-device inference, tiny models)
 - Exploring **macOS internals**, I like digging through dyld caches to find callable private functions
