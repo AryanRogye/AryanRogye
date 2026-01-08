@@ -42,7 +42,7 @@ Hi I like building cool things
 - Building tools from scratch to understand how things work at a low level
 
 ### Currently Working on
-- Having fun building out an editor [ComfyEditor](https://github.com/AryanRogye/ComfyEditor)
+- Having fun building a window manager [ComfyTile](https://github.com/AryanRogye/ComfyTile)
 
 ### 🌱 About
 - I name my projects **Comfy** because my Xbox gamertag since I was a kid was **ComfyDuck**
