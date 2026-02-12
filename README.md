@@ -33,7 +33,7 @@ Hi I like building cool things
 4. Java — first language
 5. Rust
 6. C++
-7. Python - Last Option
+7. Python - Last Option (*typed python is better*)
 
 ### Current Interests
 - Experimenting with **local AI** (LLMs, on-device inference, tiny models)
