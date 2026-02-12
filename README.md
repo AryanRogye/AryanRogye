@@ -39,6 +39,7 @@ Hi I like building cool things
 - Experimenting with **local AI** (LLMs, on-device inference, tiny models)
 - Exploring **macOS internals**, I like digging through dyld caches to find callable private functions
   - Check out my deep-dive: [ComfyDock](https://github.com/AryanRogye/ComfyDock/blob/main/README.md)
+  - my **wip** [NM Gui](https://github.com/AryanRogye/NM_Helper) 
 - Building tools from scratch to understand how things work at a low level
 
 ### Currently Working on
