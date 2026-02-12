@@ -42,7 +42,7 @@ Hi I like building cool things
 - Building tools from scratch to understand how things work at a low level
 
 ### Currently Working on
-- Having fun building a window manager [ComfyTile](https://github.com/AryanRogye/ComfyTile)
+- Having fun building a audio mixer [AudioSplitter](https://github.com/AryanRogye/AudioSplitter)
 
 ### 🌱 About
 - I name my projects **Comfy** because my Xbox gamertag since I was a kid was **ComfyDuck**
