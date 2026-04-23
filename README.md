@@ -1,6 +1,6 @@
 # I'm Aryan
 
-- CS @ UIC
+- CS @ UIC Graduating December 2026, open to opportunities
 
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryanRogye&layout=compact&theme=tokyonight" />
