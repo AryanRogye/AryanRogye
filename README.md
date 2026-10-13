@@ -28,11 +28,11 @@ Hi I like building cool things
 
 ### Favorite Programming Languages Ranked
 1. Swift — daily driver
-2. Go — still learning
+2. C++ / objc++
 3. C — low-level comfort
-4. Java — first language
-5. Rust
-6. C++
+4. Go — still learning
+5. Java — first language
+6. Rust
 7. Python - Last Option (*typed python is better*)
 
 ### Current Interests
